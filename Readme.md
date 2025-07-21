@@ -88,7 +88,7 @@ The website leverages a robust backend for handling user data, bookings, and pay
 Clone the project
 
 ```bash
-  git clone https://github.com/SumitKM27/Hotel-Management-Sytem/
+  https://github.com/AryaGupta05/Hotel-Paradise-Booking-System
 ```
 
 Go to the project directory
