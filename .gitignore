@@ -1,0 +1,18 @@
+# Java
+*.class
+*.jar
+
+# Build
+target/
+*.war
+
+# IDE files
+*.iml
+.idea/
+*.log
+
+# OS files
+.DS_Store
+
+# Tomcat
+apache-tomcat-*/
